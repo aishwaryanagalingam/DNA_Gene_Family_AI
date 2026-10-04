@@ -34,6 +34,10 @@ The model uses:
 
 > Note: The dataset used in this project is synthetic and created for educational purposes. The reported accuracy applies only to this synthetic dataset and does not represent real-world biological gene-family classification.
 
+# 🧬 DNA Gene Family AI
+
+[🚀 **Live Demo**](https://aishwaryanagalingam-dna-gene-family-ai-app-bhpw05.streamlit.app/)
+
 ## 🖥️ How to Run
 
 Install the required packages:
