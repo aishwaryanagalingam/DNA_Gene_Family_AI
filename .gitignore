@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+artifacts/*.joblib
+artifacts/*.pkl
+artifacts/*.json
+artifacts/*.png
+data/human_data.txt
